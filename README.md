@@ -1,3 +1,6 @@
+The following guide is a part of README for React-Starter-Kit. Check here to get full reference:
+https://github.com/kriasoft/react-starter-kit
+
 ## How to Build
 
 ```shell
